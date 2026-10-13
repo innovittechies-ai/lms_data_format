@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.vercel
+*.log
+.DS_Store
+Thumbs.db
+_inspect
+.tools
+Copy of Infinity Onboarding (Responses).xlsx
